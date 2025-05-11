@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sajZ3/EV1JzxE/INZppduXc8mJ8qsPX6gkfPWyvfAbkHthsSWoslpmY/PL2ldXIEUNKyTVtpJvO3YDPT1+dEgw==",
+  "success": true,
+  "projectFilePath": "/home/mahamudarteh/projects/learning/solid-principles/srp/src/Store.Common/Store.Common.csproj",
+  "expectedPackageFiles": [
+    "/home/mahamudarteh/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/mahamudarteh/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
